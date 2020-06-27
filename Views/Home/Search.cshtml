@@ -1,0 +1,26 @@
+@model List<UserInfo>
+
+    <table class="table table-bordered table-striped text-center" style="margin-top:20px;height:auto">
+                    <thead class="text-uppercase" style="font-weight:bold; font-size:20px;">
+                        <tr>
+                            <td>Userame </td>
+                            <td>Age</td>
+                            <td>Address</td>
+                            <td>Phone</td>
+                            
+                        </tr>
+                    </thead>
+                    <div id="tableBody">
+                    <tbody>
+                        @foreach(var x in Model)
+                        {
+                            <tr class="text-center">
+                                <td>@x.UserName</td>
+                                 <td>@x.Age</td>
+                                  <td>@x.Address</td>
+                                   <td>@x.Phone</td>
+                            </tr>
+                        }
+                    </tbody>
+                    </div>
+</table>

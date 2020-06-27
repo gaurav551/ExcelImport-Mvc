@@ -97,3 +97,5 @@ F:\Desktop\dotnet scratch\ExcelImport\bin\Debug\netcoreapp3.1\System.Xml.XPath.X
 F:\Desktop\dotnet scratch\ExcelImport\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 F:\Desktop\dotnet scratch\ExcelImport\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 F:\Desktop\dotnet scratch\ExcelImport\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+F:\Desktop\dotnet scratch\ExcelImport\obj\Debug\netcoreapp3.1\Razor\Views\Home\Import.cshtml.g.cs
+F:\Desktop\dotnet scratch\ExcelImport\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs

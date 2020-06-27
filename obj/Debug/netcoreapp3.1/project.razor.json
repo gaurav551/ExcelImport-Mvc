@@ -20526,6 +20526,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\Desktop\\dotnet scratch\\ExcelImport\\Views\\Home\\Import.cshtml",
+      "TargetPath": "Views\\Home\\Import.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\Desktop\\dotnet scratch\\ExcelImport\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -20553,6 +20558,11 @@
     {
       "FilePath": "f:\\Desktop\\dotnet scratch\\ExcelImport\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\Desktop\\dotnet scratch\\ExcelImport\\Views\\Home\\Search.cshtml",
+      "TargetPath": "Views\\Home\\Search.cshtml",
       "FileKind": "mvc"
     },
     {
